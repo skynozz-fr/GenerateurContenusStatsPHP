@@ -1,7 +1,7 @@
 <?php
 
-const DB_NAME = 'hugo_poo_1';
-const DB_HOST = 'localhost';
-const DB_PORT = 3306;
-const DB_USERNAME = 'admin';
-const DB_PASSWORD = 'admin';
+const DB_NAME = 'your_database_name';
+const DB_HOST = 'your_database_host';
+const DB_PORT = 3306; // Tu peux ajuster le port selon tes besoins
+const DB_USERNAME = 'your_database_username';
+const DB_PASSWORD = 'your_database_password';
